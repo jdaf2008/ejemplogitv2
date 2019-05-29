@@ -1,6 +1,6 @@
 # EJEMPLO TUTORIAL GIT
 
-### Creado por jdaf2008
+### Creado por el equipo
 
 Este Repositorio tiene como propósito familiarizarse con GIT
 
